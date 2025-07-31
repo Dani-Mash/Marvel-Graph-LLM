@@ -113,9 +113,12 @@ Watch the Streamlit web application in action, demonstrating the two main API en
 
 *Watch the full demonstration of the Marvel Graph LLM system in action, showcasing both API endpoints.*
 
-**📁 Video File**: `assets/ui_demo_app.mp4` (available locally)
+**📁 Video File**: `assets/ui_demo_app.mp4` (45MB - available locally)
 
-**📺 To View**: The demo video is available in the repository's assets folder and will be uploaded to GitHub Releases for easy access.
+**📺 To View**: 
+- **Local**: Run the application and view the video in the `assets/` folder
+- **GitHub Releases**: Video will be uploaded to repository releases for easy access
+- **External**: Video can be hosted on YouTube/Vimeo for web viewing
 
 **🎯 Demo Features Shown**:
 - Interactive question interface with natural language processing
