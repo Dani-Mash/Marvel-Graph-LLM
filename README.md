@@ -109,11 +109,19 @@ Watch the Streamlit web application in action, demonstrating the two main API en
 - **GET /graph/{character}** - Interactive character relationship visualization
 
 ### **Demo Video:**
-🎥 **UI Demo Video** - *Coming Soon*
+🎥 **UI Demo Video** - Streamlit Web Application
 
-*The demo video will be available in the repository releases, showing the Streamlit web application in action with both API endpoints.*
+*Watch the full demonstration of the Marvel Graph LLM system in action, showcasing both API endpoints.*
 
-**Note**: The demo video file is available locally in the `assets/` folder as `ui-demo.mov` and will be uploaded to GitHub Releases for easy access.
+**📁 Video File**: `assets/ui_demo_app.mp4` (available locally)
+
+**📺 To View**: The demo video is available in the repository's assets folder and will be uploaded to GitHub Releases for easy access.
+
+**🎯 Demo Features Shown**:
+- Interactive question interface with natural language processing
+- Real-time API calls to POST /question endpoint
+- Character relationship visualization with GET /graph/{character} endpoint
+- AI-powered responses grounded in knowledge graph data
 
 ### **What You'll See in the Demo:**
 - **Interactive Question Interface**: Ask natural language questions about Marvel characters
