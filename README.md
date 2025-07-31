@@ -100,6 +100,27 @@ curl -X GET "http://localhost:8000/graph/Spider-Man"
 curl -X GET "http://localhost:8000/health"
 ```
 
+## 🎥 UI Demo Video
+
+Watch the Streamlit web application in action, demonstrating the two main API endpoints:
+
+### **Demo Features:**
+- **POST /question** - Natural language question answering with AI-powered responses
+- **GET /graph/{character}** - Interactive character relationship visualization
+
+### **Demo Video:**
+🎥 **UI Demo Video** - *Coming Soon*
+
+*The demo video will be available in the repository releases, showing the Streamlit web application in action with both API endpoints.*
+
+**Note**: The demo video file is available locally in the `assets/` folder as `ui-demo.mov` and will be uploaded to GitHub Releases for easy access.
+
+### **What You'll See in the Demo:**
+- **Interactive Question Interface**: Ask natural language questions about Marvel characters
+- **AI-Powered Responses**: Get detailed, grounded answers about powers, teams, and relationships
+- **Graph Visualization**: See character relationships and connections in real-time
+- **API Integration**: Watch the seamless connection between the web interface and backend API
+
 ## 🧪 Sample Queries & Responses
 
 See [`docs/sample_queries.md`](docs/sample_queries.md) for detailed, grounded query/response examples and LLM grounding explanations.
