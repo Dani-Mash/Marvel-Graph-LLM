@@ -1,0 +1,22 @@
+# Core API Framework
+fastapi
+uvicorn[standard]
+pydantic
+# Knowledge Graph & Data Processing
+networkx
+pandas
+# Machine Learning & NLP
+sentence-transformers
+spacy
+torch
+transformers
+# Visualization (for notebooks and graph analysis)
+matplotlib
+pyvis
+# OpenAI Integration
+openai
+# Environment & Configuration
+python-dotenv
+# Web UI Demo
+streamlit
+requests

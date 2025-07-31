@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="type" attr.type="string" />
+  <key id="d1" for="node" attr.name="name" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="Wolverine">
+      <data key="d0">Character</data>
+      <data key="d1">Wolverine</data>
+    </node>
+    <node id="Cyclops">
+      <data key="d0">Character</data>
+      <data key="d1">Cyclops</data>
+    </node>
+    <node id="Storm">
+      <data key="d0">Character</data>
+      <data key="d1">Storm</data>
+    </node>
+    <node id="Jean Grey">
+      <data key="d0">Character</data>
+      <data key="d1">Jean Grey</data>
+    </node>
+    <node id="Spider‑Man">
+      <data key="d0">Character</data>
+      <data key="d1">Spider‑Man</data>
+    </node>
+    <node id="Hulk">
+      <data key="d0">Character</data>
+      <data key="d1">Hulk</data>
+    </node>
+    <node id="Captain America">
+      <data key="d0">Character</data>
+      <data key="d1">Captain America</data>
+    </node>
+    <node id="Black Panther">
+      <data key="d0">Character</data>
+      <data key="d1">Black Panther</data>
+    </node>
+    <node id="Magneto">
+      <data key="d0">Character</data>
+      <data key="d1">Magneto</data>
+    </node>
+    <node id="Scarlet Witch">
+      <data key="d0">Character</data>
+      <data key="d1">Scarlet Witch</data>
+    </node>
+    <node id="X‑Men">
+      <data key="d0">Team</data>
+      <data key="d1">X‑Men</data>
+    </node>
+    <node id="Avengers">
+      <data key="d0">Team</data>
+      <data key="d1">Avengers</data>
+    </node>
+    <node id="Brotherhood of Mutants">
+      <data key="d0">Team</data>
+      <data key="d1">Brotherhood of Mutants</data>
+    </node>
+    <node id="Regenerative Mutation">
+      <data key="d0">Gene</data>
+      <data key="d1">Regenerative Mutation</data>
+    </node>
+    <node id="Optic‑Blast">
+      <data key="d0">Gene</data>
+      <data key="d1">Optic‑Blast</data>
+    </node>
+    <node id="Weather Manipulation">
+      <data key="d0">Gene</data>
+      <data key="d1">Weather Manipulation</data>
+    </node>
+    <node id="Omega Level Telepathy">
+      <data key="d0">Gene</data>
+      <data key="d1">Omega Level Telepathy</data>
+    </node>
+    <node id="Radioactive Spider Mutation">
+      <data key="d0">Gene</data>
+      <data key="d1">Radioactive Spider Mutation</data>
+    </node>
+    <node id="Gamma Radiation Mutation">
+      <data key="d0">Gene</data>
+      <data key="d1">Gamma Radiation Mutation</data>
+    </node>
+    <node id="Super‑Soldier Serum">
+      <data key="d0">Gene</data>
+      <data key="d1">Super‑Soldier Serum</data>
+    </node>
+    <node id="Heart‑Shaped Herb">
+      <data key="d0">Gene</data>
+      <data key="d1">Heart‑Shaped Herb</data>
+    </node>
+    <node id="Magnetokinesis">
+      <data key="d0">Gene</data>
+      <data key="d1">Magnetokinesis</data>
+    </node>
+    <node id="Chaos Magic">
+      <data key="d0">Gene</data>
+      <data key="d1">Chaos Magic</data>
+    </node>
+    <node id="Accelerated Healing">
+      <data key="d0">Power</data>
+      <data key="d1">Accelerated Healing</data>
+    </node>
+    <node id="Enhanced Senses">
+      <data key="d0">Power</data>
+      <data key="d1">Enhanced Senses</data>
+    </node>
+    <node id="Optic Blasts">
+      <data key="d0">Power</data>
+      <data key="d1">Optic Blasts</data>
+    </node>
+    <node id="Weather Control">
+      <data key="d0">Power</data>
+      <data key="d1">Weather Control</data>
+    </node>
+    <node id="Telepathy">
+      <data key="d0">Power</data>
+      <data key="d1">Telepathy</data>
+    </node>
+    <node id="Telekinesis">
+      <data key="d0">Power</data>
+      <data key="d1">Telekinesis</data>
+    </node>
+    <node id="Superhuman Agility">
+      <data key="d0">Power</data>
+      <data key="d1">Superhuman Agility</data>
+    </node>
+    <node id="Enhanced Strength">
+      <data key="d0">Power</data>
+      <data key="d1">Enhanced Strength</data>
+    </node>
+    <node id="Superhuman Strength">
+      <data key="d0">Power</data>
+      <data key="d1">Superhuman Strength</data>
+    </node>
+    <node id="Magnetism Control">
+      <data key="d0">Power</data>
+      <data key="d1">Magnetism Control</data>
+    </node>
+    <node id="Reality Manipulation">
+      <data key="d0">Power</data>
+      <data key="d1">Reality Manipulation</data>
+    </node>
+    <edge source="Wolverine" target="X‑Men" id="0">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="Wolverine" target="Regenerative Mutation" id="0">
+      <data key="d2">HAS_MUTATION</data>
+    </edge>
+    <edge source="Wolverine" target="Accelerated Healing" id="0">
+      <data key="d2">POSSESSES_POWER</data>
+    </edge>
+    <edge source="Wolverine" target="Enhanced Senses" id="0">
+      <data key="d2">POSSESSES_POWER</data>
+    </edge>
+    <edge source="Cyclops" target="X‑Men" id="0">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="Cyclops" target="Optic‑Blast" id="0">
+      <data key="d2">HAS_MUTATION</data>
+    </edge>
+    <edge source="Cyclops" target="Optic Blasts" id="0">
+      <data key="d2">POSSESSES_POWER</data>
+    </edge>
+    <edge source="Storm" target="X‑Men" id="0">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="Storm" target="Weather Manipulation" id="0">
+      <data key="d2">HAS_MUTATION</data>
+    </edge>
+    <edge source="Storm" target="Weather Control" id="0">
+      <data key="d2">POSSESSES_POWER</data>
+    </edge>
+    <edge source="Jean Grey" target="X‑Men" id="0">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="Jean Grey" target="Omega Level Telepathy" id="0">
+      <data key="d2">HAS_MUTATION</data>
+    </edge>
+    <edge source="Jean Grey" target="Telepathy" id="0">
+      <data key="d2">POSSESSES_POWER</data>
+    </edge>
+    <edge source="Jean Grey" target="Telekinesis" id="0">
+      <data key="d2">POSSESSES_POWER</data>
+    </edge>
+    <edge source="Spider‑Man" target="Avengers" id="0">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="Spider‑Man" target="Radioactive Spider Mutation" id="0">
+      <data key="d2">HAS_MUTATION</data>
+    </edge>
+    <edge source="Spider‑Man" target="Superhuman Agility" id="0">
+      <data key="d2">POSSESSES_POWER</data>
+    </edge>
+    <edge source="Spider‑Man" target="Enhanced Strength" id="0">
+      <data key="d2">POSSESSES_POWER</data>
+    </edge>
+    <edge source="Hulk" target="Avengers" id="0">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="Hulk" target="Gamma Radiation Mutation" id="0">
+      <data key="d2">HAS_MUTATION</data>
+    </edge>
+    <edge source="Hulk" target="Superhuman Strength" id="0">
+      <data key="d2">POSSESSES_POWER</data>
+    </edge>
+    <edge source="Captain America" target="Avengers" id="0">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="Captain America" target="Super‑Soldier Serum" id="0">
+      <data key="d2">HAS_MUTATION</data>
+    </edge>
+    <edge source="Captain America" target="Enhanced Strength" id="0">
+      <data key="d2">POSSESSES_POWER</data>
+    </edge>
+    <edge source="Black Panther" target="Avengers" id="0">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="Black Panther" target="Heart‑Shaped Herb" id="0">
+      <data key="d2">HAS_MUTATION</data>
+    </edge>
+    <edge source="Black Panther" target="Enhanced Senses" id="0">
+      <data key="d2">POSSESSES_POWER</data>
+    </edge>
+    <edge source="Black Panther" target="Enhanced Strength" id="0">
+      <data key="d2">POSSESSES_POWER</data>
+    </edge>
+    <edge source="Magneto" target="Brotherhood of Mutants" id="0">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="Magneto" target="Magnetokinesis" id="0">
+      <data key="d2">HAS_MUTATION</data>
+    </edge>
+    <edge source="Magneto" target="Magnetism Control" id="0">
+      <data key="d2">POSSESSES_POWER</data>
+    </edge>
+    <edge source="Scarlet Witch" target="Avengers" id="0">
+      <data key="d2">MEMBER_OF</data>
+    </edge>
+    <edge source="Scarlet Witch" target="Chaos Magic" id="0">
+      <data key="d2">HAS_MUTATION</data>
+    </edge>
+    <edge source="Scarlet Witch" target="Reality Manipulation" id="0">
+      <data key="d2">POSSESSES_POWER</data>
+    </edge>
+    <edge source="Regenerative Mutation" target="Accelerated Healing" id="0">
+      <data key="d2">CONFERS</data>
+    </edge>
+    <edge source="Regenerative Mutation" target="Enhanced Senses" id="0">
+      <data key="d2">CONFERS</data>
+    </edge>
+    <edge source="Optic‑Blast" target="Optic Blasts" id="0">
+      <data key="d2">CONFERS</data>
+    </edge>
+    <edge source="Weather Manipulation" target="Weather Control" id="0">
+      <data key="d2">CONFERS</data>
+    </edge>
+    <edge source="Omega Level Telepathy" target="Telepathy" id="0">
+      <data key="d2">CONFERS</data>
+    </edge>
+    <edge source="Omega Level Telepathy" target="Telekinesis" id="0">
+      <data key="d2">CONFERS</data>
+    </edge>
+    <edge source="Radioactive Spider Mutation" target="Superhuman Agility" id="0">
+      <data key="d2">CONFERS</data>
+    </edge>
+    <edge source="Radioactive Spider Mutation" target="Enhanced Strength" id="0">
+      <data key="d2">CONFERS</data>
+    </edge>
+    <edge source="Gamma Radiation Mutation" target="Superhuman Strength" id="0">
+      <data key="d2">CONFERS</data>
+    </edge>
+    <edge source="Super‑Soldier Serum" target="Enhanced Strength" id="0">
+      <data key="d2">CONFERS</data>
+    </edge>
+    <edge source="Heart‑Shaped Herb" target="Enhanced Senses" id="0">
+      <data key="d2">CONFERS</data>
+    </edge>
+    <edge source="Heart‑Shaped Herb" target="Enhanced Strength" id="0">
+      <data key="d2">CONFERS</data>
+    </edge>
+    <edge source="Magnetokinesis" target="Magnetism Control" id="0">
+      <data key="d2">CONFERS</data>
+    </edge>
+    <edge source="Chaos Magic" target="Reality Manipulation" id="0">
+      <data key="d2">CONFERS</data>
+    </edge>
+  </graph>
+</graphml>
